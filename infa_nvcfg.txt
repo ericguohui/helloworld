@@ -1,0 +1,3 @@
+AOM2RepRate	1000.0
+Pump3IspDef	800.0
+Pump4IspDef	800.0
